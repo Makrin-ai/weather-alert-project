@@ -1,0 +1,19 @@
+# Виртуальное окружение
+venv/
+.venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Кэш тестов
+.pytest_cache/
+.cache
+
+# Файлы ОС macOS
+.DS_Store
+
+# Настройки VS Code (опционально)
+.vscode/
